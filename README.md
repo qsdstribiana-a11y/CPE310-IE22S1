@@ -2,3 +2,4 @@
 Fundamentals of Data Science
 
 # ABOUT ME
+im hazi from the ph 
